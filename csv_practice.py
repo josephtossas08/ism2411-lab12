@@ -1,4 +1,3 @@
-
 Reflection Questions
 1. #Python vs. Excel: Python is better for automating repeatable tasks and handling larger datasets, while Excel is useful for visual editing and manual calculations.
 2. #Append mode: A business can record each order-processing run in a log without erasing previous records.
